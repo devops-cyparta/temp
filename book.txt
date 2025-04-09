@@ -53,6 +53,7 @@ https://archive.org/details/javaprogramminga0000wigg
 
 courses
 
+https://download.ir/the-ultimate-django-series/
 https://www.psdly.to/?s=Code+with+Mosh
 spring boot https://www.youtube.com/watch?v=5rNk7m_zlAg
 spring boot aplication https://www.youtube.com/watch?v=31KTdfRH6nY
