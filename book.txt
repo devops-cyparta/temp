@@ -30,6 +30,9 @@ https://github.com/hamza1331/ngrok/blob/master/FreeCourseSite.com-Udemy%20-%20Th
 MVC ITI https://drive.google.com/drive/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR243hOz_cxdVBIwsisW9K-k8m1iWJk2WwqnFyM4NZrwJqqTf-MnJHJ8ZGw
 
 books
+https://github.com/rohitg00/DevOps_Books/tree/main
+https://github.com/rohitg00/DevOps_Books/blob/main/Docker%20Deep%20Dive%20Zero%20to%20Docker%20in%20a%20single%20book%20(Nigel%20Poulton)%20(z-lib.org).pdf
+https://github.com/ahmedsami76/AraBigData/blob/main/Docker.ipynb
 ITI Materials PDFs https://drive.google.com/drive/folders/0B8lxEfA7LFv6NWsyWXlvZjFxbU0?fbclid=IwAR1t2-woVJ_19_zv_X7vvuMyrK_HMaSfjD6FjZ3xjX4TJUYGUpBqQsC-58I&resourcekey=0-mD8p9zmdMQhb67aintnC2w
 
 
