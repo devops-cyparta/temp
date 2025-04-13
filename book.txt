@@ -37,10 +37,16 @@ https://www.noor-book.com/%D9%83%D8%AA%D8%A7%D8%A8-%D8%AA%D8%B9%D9%84%D9%85-git-
 
 
 courses link
+mahara tech backend track
 https://github.com/hamza1331/ngrok/blob/master/FreeCourseSite.com-Udemy%20-%20The%20Complete%20Node.js%20Developer%20Course%20(3rd%20Edition).torrent
 MVC ITI https://drive.google.com/drive/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR243hOz_cxdVBIwsisW9K-k8m1iWJk2WwqnFyM4NZrwJqqTf-MnJHJ8ZGw
 
 books
+https://www.libgen.is/search.php?req=kubernetes&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
+https://cdn.digitalisationworld.com/uploads/pdfs/ba773f1e6a2faa5dcb54cbc56968b699cbb5497a4849f62b.pdf
+https://github.com/rohitg00/DevOps_Books
+https://github.com/anzhihe/Free-Docker-K8s-Books
+https://kodekloud.com/wp-content/uploads/2020/11/Kubernetes-for-Beginners.pdf
 https://github.com/rohitg00/DevOps_Books/blob/main/README.md
 https://github.com/rohitg00/DevOps_Books/tree/main
 https://github.com/rohitg00/DevOps_Books/blob/main/Docker%20Deep%20Dive%20Zero%20to%20Docker%20in%20a%20single%20book%20(Nigel%20Poulton)%20(z-lib.org).pdf
@@ -88,6 +94,12 @@ https://archive.org/details/javaprogramming20000fain
 https://archive.org/details/java11developers0000unse
 https://archive.org/details/javaprogrammingl0000arno
 https://archive.org/details/javaprogramminga0000wigg
+https://fliphtml5.com/exploring/?q=kubernetes
+https://www.pdfdrive.com/kubernetes-books.html
+https://www.pdfdrive.com/kubernetes-e60019073.html
+https://digtvbg.com/files/LINUX/Kubernetes%20Up%20and%20Running,%203rd%20Edition.pdf
+
+
 
 
 
