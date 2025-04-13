@@ -112,6 +112,11 @@ https://digtvbg.com/files/LINUX/Kubernetes%20Up%20and%20Running,%203rd%20Edition
 
 courses
 
+AI bootcamp 2021 https://archive.org/details/complete-machine-learning-data-science-bootcamp-2021/%5BTutsNode.com%5D+-+Complete+Machine+Learning+%26+Data+Science+Bootcamp+2021/1.+Introduction/1.+Course+Outline.mp4
+https://archive.org/details/complete-machine-learning-and-data-science-zero-to-mastery
+https://archive.org/details/the-data-science-course-2021-complete-data-science-bootcamp
+
+
 Django Rest API https://www.youtube.com/watch?v=c708Nf0cHrs
 multi courses on youtube https://www.youtube.com/@SLGAcademy/playlists
 ITI C# on youtube https://www.youtube.com/playlist?list=PLzCpl3aBwaY6t9NY_ruKuzJ99vYDZvAa9
