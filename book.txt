@@ -1,3 +1,4 @@
+https://archive.org/
 https://www.farescd.com/courses/%d8%a8%d8%b1%d9%85%d8%ac%d8%a9-%d9%88%d8%aa%d8%b7%d9%88%d9%8a%d8%b1/
 
 https://1337x.to/search/aws/1/
@@ -42,6 +43,7 @@ https://github.com/hamza1331/ngrok/blob/master/FreeCourseSite.com-Udemy%20-%20Th
 MVC ITI https://drive.google.com/drive/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR243hOz_cxdVBIwsisW9K-k8m1iWJk2WwqnFyM4NZrwJqqTf-MnJHJ8ZGw
 
 books
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=kubernetes&btnG=
 https://www.libgen.is/search.php?req=kubernetes&lg_topic=libgen&open=0&view=simple&res=25&phrase=1&column=def
 https://cdn.digitalisationworld.com/uploads/pdfs/ba773f1e6a2faa5dcb54cbc56968b699cbb5497a4849f62b.pdf
 https://github.com/rohitg00/DevOps_Books
