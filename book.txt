@@ -1,5 +1,16 @@
 project 
+https://github.com/tortuvshin/open-source-flutter-apps
+https://github.com/topics/flutter-login-screen
+https://github.com/fluttergems/awesome-open-source-flutter-apps
+https://github.com/saileshbro/full_stack_todo_dart
+https://github.com/topics/flutter-apps
 https://www.youtube.com/watch?v=5Z0I30BghJw
+https://github.com/hungps/flutter_pokedex
+https://github.com/jesusrp98/spacex-go
+https://github.com/tejasbadone/flutterzon_bloc
+https://github.com/MarcinusX/flutter_ui_challenge_flight_search
+https://github.com/IsuruUpeka/OnlineFoodOrderingMobileApplication_and_RobustAdminPanel_Flutter_and_Laravel
+https://github.com/AlankritNayak/Flutter_FastAPI_Posgresql_Docker
 
 playlists courses 
 https://www.youtube.com/@Developer97/playlists
