@@ -1,0 +1,10 @@
+Htop
+Discord
+virtualbox
+Angry IP Scanner
+deluge
+KTorrent
+Haruna 
+Celluloid
+mpv Media Player
+Chromium Web Browser
