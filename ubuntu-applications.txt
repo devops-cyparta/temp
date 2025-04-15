@@ -1,3 +1,4 @@
+https://github.com/hyperfield/yt-channel-downloader?tab=readme-ov-file#macos-or-linux
 Htop
 Discord
 virtualbox
