@@ -1,4 +1,3 @@
 https://github.com/hyperfield/yt-channel-downloader?tab=readme-ov-file#macos-or-linux
 https://www.youtube.com/playlist?list=PLluZGtIpwF_B6IHB6q1pG8AJAIvpJHNIH
-Discord
 virtualbox
